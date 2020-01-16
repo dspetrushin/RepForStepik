@@ -14,4 +14,5 @@ class LoginPageLocators():
 
 class ProductPageLocators():
     BUTTON_ADD_BASKET = (By.CLASS_NAME, "btn.btn-lg.btn-primary")
+    TEXT_ELEMENT_AFTER_ADD_BASKET = (By.CLASS_NAME, "alertinner")
 
